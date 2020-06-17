@@ -152,9 +152,7 @@ Use the dictionary parkd_vehicles in ParkingLot object to find out the parked ve
 
 3. Create the respective objects(ParkedVehicle and ParkingLot) with the given sequence of arguments to fulfill the constructor requirement defined in the respective classes.
 
-    * Create a ParkedVehicle object after reading the data related to ParkedVehicle and add the ParkedVehicle object to ParkedVehicle dictionary,
-
-    where lot_number and Parked vehicle object as a key:value pair. This point repeats for the number of ParkedVechicle objects you want to create and add to parked vehicles     dictionary.
+    * Create a ParkedVehicle object after reading the data related to ParkedVehicle and add the ParkedVehicle object to ParkedVehicle dictionary, where lot_number and Parked vehicle object as a key:value pair. This point repeats for the number of ParkedVechicle objects you want to create and add to parked vehicles dictionary.
 
    * Create parkingLot object with the dictionary of ParkedVehicle objects ( created as mentioned in above point# c.i ), as an argument.
 
@@ -264,6 +262,8 @@ The student details are provided as command line argument when the file containi
 
 ### Sample input:
 
+​
+
 Roll no,Name,Subject1_Score,Subject2_Score
 101,kumar,80,75
 102,suresh,50,35
@@ -274,5 +274,8 @@ Roll no,Name,Subject1_Score,Subject2_Score
 
 ### sample output:
 
+​
+
 104 shiva 79.5
+
 101 kumar 77.5
