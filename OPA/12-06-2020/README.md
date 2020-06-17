@@ -265,9 +265,13 @@ The student details are provided as command line argument when the file containi
 ​
 
 Roll no,Name,Subject1_Score,Subject2_Score
+
 101,kumar,80,75
+
 102,suresh,50,35
+
 103,ramesh,35,80
+
 104,shiva,82,77
 
 ​
